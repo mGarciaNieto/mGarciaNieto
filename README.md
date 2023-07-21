@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mGarciaNieto/mGarciaNieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manuel Garcia-Nieto
 ===========================================================================================================================================
 
@@ -30,7 +27,7 @@ My name is Manuel, and I am a Full Stack Web Developer in Training. I have a pas
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
 * 😄 Pronouns: he/him
-* ⚡  When I'm not doing my homework I enjoy developing new thing,  collaborating on projects to make a positive impact on our world, and expanding my knowledge in artificial intelligence and statistics.
+* ⚡  When I'm not doing my homework I enjoy developing new things, collaborating on projects with other people to make a positive impact on our world, and expanding my knowledge in artificial intelligence and statistics.
 ### Skills
 
 <p align="left">
