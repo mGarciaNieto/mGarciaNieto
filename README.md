@@ -14,33 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manuel Garcia-Nieto
 ===========================================================================================================================================
 
-Full Stack Developer
+Full Stack JavaScript Developer in the Making...
 --------------------
 
-My name is Manuel, and I am a Full Stack Web Developer. I have a passion for all things tech and enjoy staying up-to-date with the latest trends and advancements in the field.
+My name is Manuel, and I am a Full Stack Web Developer in Training. I have a passion for all things tech and enjoy staying up-to-date with the latest trends and advancements in the field.
 
 * 🌍  I'm based in Barcelona Spain
 * 🖥️  See my portfolio at [MyPortfolio](http://manuel-garcia-nieto.live/)
 * ✉️  You can contact me at [mgarcianieto@proton.me](mailto:mgarcianieto@proton.me)
-* 🚀  I'm currently working on [Finish my Full Stack Javascript Techdegree at TreeHouse and Barcelona Code School BCS](http://manuel-garcia-nieto.onrender.com/)
+* 🚀  I'm currently working on [Finishing my Full Stack Javascript Techdegree at TreeHouse and Barcelona Code School B|C|S](http://manuel-garcia-nieto.onrender.com/)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  When I'm not doing my homework I like to develop things, collaborate on projects with other people to improve this world we live in and advance my knowledge in artificial intelligence and statistics.
-
+* 😄 Pronouns: he/him
+* ⚡  When I'm not doing my homework I enjoy developing new thing,  collaborating on projects to make a positive impact on our world, and expanding my knowledge in artificial intelligence and statistics.
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
