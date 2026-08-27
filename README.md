@@ -21,7 +21,7 @@ Full Stack JavaScript Developer in the Making...
 My name is Manuel, and I am a software engineer. I have a passion for all things tech and enjoy staying up-to-date with the latest trends and advancements in the field.
 
 * 🌍  I'm based in Barcelona Spain
-* 🖥️  See my portfolio at [MyPortfolio](http://manuel-garcia-nieto.is-a.dev/)
+* 🖥️  See my portfolio at [My Portfolio](http://manuel-garcia-nieto.is-a.dev/)
 * ✉️  You can contact me at [mgarcianieto@proton.me](mailto:mgarcianieto@proton.me)
 * 🚀  I'm currently working on [I’m currently pursuing a University Master’s Degree in Computer Engineering at the Universitat Oberta de Catalunya (UOC).](http://manuel-garcia-nieto.onrender.com/)
 * 🧠  I'm learning AWS and Cibersecurity during the summer 2026. 
