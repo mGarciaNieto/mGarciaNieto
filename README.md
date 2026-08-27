@@ -18,16 +18,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack JavaScript Developer in the Making...
 --------------------
 
-My name is Manuel, and I am a Full Stack Web Developer in Training. I have a passion for all things tech and enjoy staying up-to-date with the latest trends and advancements in the field.
+My name is Manuel, and I am a software engineer. I have a passion for all things tech and enjoy staying up-to-date with the latest trends and advancements in the field.
 
 * 🌍  I'm based in Barcelona Spain
-* 🖥️  See my portfolio at [MyPortfolio](http://manuel-garcia-nieto.live/)
+* 🖥️  See my portfolio at [MyPortfolio](http://manuel-garcia-nieto.is-a.dev/)
 * ✉️  You can contact me at [mgarcianieto@proton.me](mailto:mgarcianieto@proton.me)
-* 🚀  I'm currently working on [Finishing my Full Stack Javascript Techdegree at TreeHouse and Barcelona Code School B|C|S](http://manuel-garcia-nieto.onrender.com/)
-* 🧠  I'm learning React
+* 🚀  I'm currently working on [I’m currently pursuing a University Master’s Degree in Computer Engineering at the Universitat Oberta de Catalunya (UOC).](http://manuel-garcia-nieto.onrender.com/)
+* 🧠  I'm learning AWS and Cibersecurity during the summer 2026. 
 * 🤝  I'm open to collaborating on interesting projects
 * 😄 Pronouns: he/him
-* ⚡  When I'm not doing my homework I enjoy developing new things, collaborating on projects with other people to make a positive impact on our world, and expanding my knowledge in artificial intelligence and statistics.
+* ⚡  I enjoy building new software, collaborating on projects that create a positive impact, and expanding my knowledge of artificial intelligence and statistics.
 ### Skills
 
 <table>
