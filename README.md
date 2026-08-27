@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Manuel
 ===========================================================================================================================================
 
-Full Stack JavaScript Developer in the Making...
+Software Engineer
 --------------------
 
 My name is Manuel, and I am a software engineer. I have a passion for all things tech and enjoy staying up-to-date with the latest trends and advancements in the field.
